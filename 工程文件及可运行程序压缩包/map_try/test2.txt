@@ -1,0 +1,39 @@
+4 HP AT DF SP
+SP
+HP
+HP - mAT - tDF @
+1
+空条承太郎
+2000 100 60 10
+D:/ZZ_1/map_try/jojo.jpg
+3
+欧拉欧拉
+OnetoOne
+HP - ( mAT - tDF ) * 10 @
+物理攻击，连续攻击十次
+3
+流星指刺
+OnetoOne
+HP - ( mAT * 2 ) - tDF @
+物理攻击，2倍攻击力
+2 
+白金之星·时间暂停
+OnetoEAll
+HP - mAT * 10 @
+物理攻击，无视防御，造成十倍攻击力的伤害
+5
+1
+迪奥·布兰多
+10000 90 70 9
+D:/ZZ_1/map_try/dio.jpg
+2
+木大木大
+OnetoOne
+HP - ( mAT - tDF ) * 10 @
+物理攻击，连续攻击十次
+3
+世界
+OnetoEAll
+HP - mAT * 10 @
+物理攻击，无视防御，造成十倍攻击力的伤害
+5

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background.png</file>
+        <file>White_color_Page.jpg</file>
+        <file>wad.jpg</file>
+        <file>c3a40dfc6432425faf0cab2e972db0ca.jpg</file>
+        <file>wad1.jpg</file>
+        <file>logo.png</file>
+        <file>the-button-859346_960_720.png</file>
+        <file>hhh.png</file>
+        <file>easytry/resources/233.jpg</file>
+    </qresource>
+</RCC>
